@@ -152,6 +152,8 @@ Found a bug, an unclear task, or an idea for a new exercise? Suggestions are wel
 
 Made for learning. **Fork it, train with it, share it.** 🚀
 
+> **Note:** testing
+
 Looking for the same course for Go or TypeScript? → [go-training](https://github.com/birsi/go-training) · [typescript-training](https://github.com/birsi/typescript-training)
 
 </div>
